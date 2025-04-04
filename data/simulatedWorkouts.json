@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "HIIT Blast", "duration": "30 min", "trainer": "Saint"},
+    { "id": 2, "name": "Yoga Flow", "duration": "30 min", "trainer": "Jeff"},
+    { "id": 3, "name": "Pilates", "duration": "30 min", "trainer": "Eli"},
+    { "id": 4, "name": "Cycling", "duration": "30 min", "trainer": "Kalila"},
+    { "id": 5, "name": "Swimming", "duration": "30 min", "trainer": "Nneka"}
+]
